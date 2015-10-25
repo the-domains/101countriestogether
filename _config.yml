@@ -1,0 +1,23 @@
+name: 101countriestogether
+favicon: null
+layout_spectrum: 0.6138844466768205
+typography_spectrum: 0.8248426313512027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.453661619219929
+  lightness: 0.9252145579084754
+  saturation: 0.024338191840797663
+  rhythmicContrast: 0.21526920422911644
+purpose: []
